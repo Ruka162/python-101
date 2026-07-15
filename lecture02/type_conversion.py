@@ -8,5 +8,5 @@ print("Age:",age)
 
 num_str = "123"
 num_str = int(num_str)
-print("Number as intege:",num_int)
+
 
